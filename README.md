@@ -1,6 +1,7 @@
 # AICar
 
-A little project to test wheel colliders an AI in a Unity 3D Car.
+A little project to learn about wheel colliders an AI in a Unity 3D Car. The goal is to resolve all the challenges.
+This project was tested with Unity 5.2.
 
 ## Instructions
 
