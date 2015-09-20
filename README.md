@@ -1,11 +1,15 @@
 # AICar
 
-A little project to learn about wheel colliders an AI in a Unity 3D Car. The goal is to resolve all the challenges.
+A little project to learn about wheel colliders an AI in a Unity 3D Car. 
+The goal is to resolve all the challenges.
+
+## Requirements
+
 This project was tested with Unity 5.2.
 
 ## Instructions
 
-* Create a new project and import CarBaseProject.unitypackage (from here)
+* Download the project.
 * The folder Challenges has the scenes for each Challenge. 
 * You need to proceed in order and reuse part of the code you will generate. 
 * All the resources for the challenge are provided in the folder content.
