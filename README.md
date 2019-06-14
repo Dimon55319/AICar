@@ -3,6 +3,8 @@
 A little project to learn about wheel colliders an AI in a Unity 3D Car. 
 The goal is to resolve all the challenges.
 
+(I created this project to train engineers at DeNA Vancouver.)
+
 ## Requirements
 
 This project was tested with Unity 5.2.
